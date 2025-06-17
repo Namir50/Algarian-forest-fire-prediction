@@ -1,5 +1,6 @@
 pandas
-flask
+Flask
 numpy
-sklearn
+scikit-learn
 pickle
+gunicorn
